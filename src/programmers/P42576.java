@@ -10,7 +10,6 @@ public class P42576 {
 
     String[] participant = {"leo", "kiki", "eden"};
     String[] completion = {"eden", "kiki"};
-    String result = "leo";
 
     System.out.println(instance.solution(participant, completion));
   }
