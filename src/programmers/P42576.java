@@ -3,6 +3,7 @@ package programmers;
 import java.util.HashMap;
 import java.util.Map;
 
+// 완주하지 못한 선수
 public class P42576 {
 
   public static void main(String[] args) {
